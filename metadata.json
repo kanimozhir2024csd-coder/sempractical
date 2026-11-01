@@ -1,0 +1,6 @@
+{
+  "name": "TECH CAMPUS - AI-Powered Hostel Maintenance Management System",
+  "description": "Hostel maintenance management system for Rajalakshmi Engineering College (REC) featuring AI chatbot reporting, multimodal repair verification, automated skill-based worker dispatch, and multi-role operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
